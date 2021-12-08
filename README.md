@@ -2,7 +2,7 @@
 
 I'm a remote MERN stack web developer 
 
-<img align='right' src="./images/programmer.gif" width="230">
+<img align='right' src="./programmer.gif" width="230">
 
 **About me**
 
