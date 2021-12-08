@@ -1,4 +1,4 @@
-<h1>Hi I'm Karim Elsisi! 👋</h1>
+<h1>Hi, I'm Karim Elsisi ! 👋</h1>
 
 I'm a remote full-stack web developer 
 
