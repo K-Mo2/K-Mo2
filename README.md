@@ -13,12 +13,12 @@ I'm a remote full-stack web developer
 
 <br/><br/>
 
-| <a href="https://github.com/K-Mo2"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Mo2&layout=compact" /></a> | <a href="https://github.com/K-Mo2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Mo2&show_icons=true&include_all_commits=true&theme=midnight-purple" /></a> |
+| <a href="https://github.com/K-Mo2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Mo2&show_icons=true&include_all_commits=true&theme=midnight-purple" /></a> |
 | ------------- | ------------- |
 
 <div align="center">
   <a href="https://github.com/K-Mo2">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=K-Mo2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Mo2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
