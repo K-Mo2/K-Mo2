@@ -37,9 +37,7 @@ I'm a full-stack web developer
  
  
 [![Linkedin Badge](https://img.shields.io/badge/-Karim%20Elsisi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karim-elsisi-6a956b190/)](https://www.linkedin.com/in/karim-elsisi-6a956b190/)
- 
-  <a href = "mailto:reis17.yuriprado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+<a href = "karimelsisi27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 [![Twitter Badge](https://img.shields.io/badge/-@Karim%20Elsisi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karim4mo)](https://twitter.com/karim4mo)
 <!--
 **K-Mo2/K-Mo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
