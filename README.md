@@ -32,7 +32,7 @@ I'm a full-stack web developer
   <img align="center" alt="Karim-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Karim-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Karim-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <img align="center" alt="Karim-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terminal/terminal-original.svg">
+ <img align="center" alt="Karim-terminal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terminal/terminal-original.svg">
   <img align="right" alt="Picrew-art" height="170" src="https://share-cdn.picrew.me/shareImg/org/202109/701767_6djNeYhe.png">
   
 
@@ -40,7 +40,7 @@ I'm a full-stack web developer
  
  
 [![Linkedin Badge](https://img.shields.io/badge/-Karim%20Elsisi-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karim-elsisi-6a956b190/)](https://www.linkedin.com/in/karim-elsisi-6a956b190/)
-<a href = "karimelsisi27@gmail.com"><img  height="20" width="50" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href = "karimelsisi27@gmail.com"><img  height="20" width="80" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 [![Twitter Badge](https://img.shields.io/badge/-@Karim%20Elsisi-1ca0f1?style=square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karim4mo)](https://twitter.com/karim4mo)
 <!--
 **K-Mo2/K-Mo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
