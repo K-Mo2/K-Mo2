@@ -1,6 +1,6 @@
 <h1>Hi, I'm Karim Elsisi ! 👋</h1>
 
-I'm a remote full-stack web developer 
+I'm a full-stack web developer 
 
 <img align='right' src="./programmer.gif" width="230">
 
@@ -33,10 +33,13 @@ I'm a remote full-stack web developer
   <img align="right" alt="Picrew-art" height="170" src="https://share-cdn.picrew.me/shareImg/org/202109/701767_6djNeYhe.png">
   
 
-<br/>
-##
+<hr/>
+ 
  
 [![Linkedin Badge](https://img.shields.io/badge/-Karim%20Elsisi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karim-elsisi-6a956b190/)](https://www.linkedin.com/in/karim-elsisi-6a956b190/)
+ 
+  <a href = "mailto:reis17.yuriprado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
 [![Twitter Badge](https://img.shields.io/badge/-@Karim%20Elsisi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karim4mo)](https://twitter.com/karim4mo)
 <!--
 **K-Mo2/K-Mo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
