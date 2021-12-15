@@ -13,7 +13,8 @@ I'm a full-stack web developer
 
 <br/><br/>
 
-<a href="https://github.com/K-Mo2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Mo2&show_icons=true&include_all_commits=true&theme=midnight-purple" /></a> | <div align="center"> <a href="https://github.com/K-Mo2"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Mo2&layout=compact&langs_count=7&theme=tokyonight"/>
+<a href="https://github.com/K-Mo2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Mo2&show_icons=true&include_all_commits=true&theme=midnight-purple" /> </a> |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<div align="center"> <a href="https://github.com/K-Mo2"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Mo2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -40,7 +41,7 @@ I'm a full-stack web developer
  
  
 [![Linkedin Badge](https://img.shields.io/badge/-Karim%20Elsisi-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karim-elsisi-6a956b190/)](https://www.linkedin.com/in/karim-elsisi-6a956b190/)
-<a href = "karimelsisi27@gmail.com"><img  height="20" width="80" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href = "karimelsisi27@gmail.com"><img  height="20" width="100" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 [![Twitter Badge](https://img.shields.io/badge/-@Karim%20Elsisi-1ca0f1?style=square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karim4mo)](https://twitter.com/karim4mo)
 <!--
 **K-Mo2/K-Mo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
