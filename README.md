@@ -2,6 +2,8 @@
 
 I'm a full-stack web developer 
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=#9644F4)
+
 <img align='right' src="./programmer.gif" width="230">
 
 **About me**
