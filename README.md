@@ -1,10 +1,19 @@
-<h1>Hi, I'm Karim Elsisi ! 👋</h1>
+<h1>Hi there, I'm Karim Elsisi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<a href="https://www.linkedin.com/in/karim-elsisi-6a956b190/">
+  <img align="left" alt="Karim Elsisi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/karim4mo">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/karim1mo#3022">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 
 ![](https://komarev.com/ghpvc/?username=K-Mo2&color=blueviolet)
 
 
 
-I'm a full-stack web developer 
+I'm a full-stack web developer.
 
 
 
@@ -47,12 +56,10 @@ I'm a full-stack web developer
   
   
 
-<hr/>
+
  
  
-[![Linkedin Badge](https://img.shields.io/badge/-Karim%20Elsisi-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karim-elsisi-6a956b190/)](https://www.linkedin.com/in/karim-elsisi-6a956b190/)
-<a href = "karimelsisi27@gmail.com"><img  height="20" width="100" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-[![Twitter Badge](https://img.shields.io/badge/-@Karim%20Elsisi-1ca0f1?style=square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karim4mo)](https://twitter.com/karim4mo)
+
 <!--
 **K-Mo2/K-Mo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
