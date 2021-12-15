@@ -13,7 +13,7 @@ I'm a full-stack web developer
 
 <br/><br/>
 
-![Karim Elsisi GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Mo2&show_icons=true&theme=highcontrast)
+![Karim Elsisi GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Mo2&show_icons=true&theme=cobalt)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K-Mo2&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
