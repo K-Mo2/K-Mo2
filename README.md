@@ -13,16 +13,20 @@
 
 I'm a full-stack web developer.
 
-
-
 <img align='right' src="./programmer.gif" width="230">
 
-**About me**
+## About me
+
+-I'm Karim Elsisi, a passionate self-taught full-stack web developer and freelancer.
+
+-My passion for software lies in fictional ideas and turning them into reality. 
+
+-I am attentive to clean code, design patterns and best practices.
+
+-I am also an open-source enthusiast, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-- I career shifted into programming years ago and it was one of the best decisions I've ever made.
-- I'm a self-taught programmer.
-- I catch fire on coding.
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br/><br/>
 
@@ -32,9 +36,11 @@ I'm a full-stack web developer.
 
 <div align="center"> <a href="https://github.com/K-Mo2"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Mo2&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+  
  
  <hr/>
- 
+  
+### Languages and tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Karim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Karim-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
