@@ -13,9 +13,14 @@ I'm a full-stack web developer
 
 <br/><br/>
 
-<a href="https://github.com/K-Mo2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Mo2&show_icons=true&include_all_commits=true&theme=midnight-purple" /> </a> |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+![Karim Elsisi GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Mo2&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K-Mo2&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <div align="center"> <a href="https://github.com/K-Mo2"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Mo2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+ 
+ <hr/>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Karim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,8 +38,7 @@ I'm a full-stack web developer
   <img align="center" alt="Karim-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Karim-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Karim-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <img align="center" alt="Karim-terminal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terminal/terminal-original.svg">
-  <img align="right" alt="Picrew-art" height="170" src="https://share-cdn.picrew.me/shareImg/org/202109/701767_6djNeYhe.png">
+  
   
 
 <hr/>
