@@ -21,7 +21,7 @@ I'm a full-stack web developer
 
 ![Karim Elsisi GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Mo2&show_icons=true&theme=midnight-purple)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K-Mo2&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K-Mo2&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=DD1B46&dates=2CD2DD&currStreakLabel=DD1B46&currStreakNum=DD1B46)](https://git.io/streak-stats)
 
 <div align="center"> <a href="https://github.com/K-Mo2"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Mo2&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
