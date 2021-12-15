@@ -1,8 +1,11 @@
 <h1>Hi, I'm Karim Elsisi ! 👋</h1>
+<hr/>
+![](https://komarev.com/ghpvc/?username=K-Mo2&color=blueviolet)
+
 
 I'm a full-stack web developer 
 
-![](https://komarev.com/ghpvc/?username=K-Mo2&color=blueviolet)
+
 
 <img align='right' src="./programmer.gif" width="230">
 
