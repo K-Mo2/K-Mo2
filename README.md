@@ -5,9 +5,7 @@
 <a href="https://twitter.com/karim4mo">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/users/karim1mo#3022">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+
 
 ![](https://komarev.com/ghpvc/?username=K-Mo2&color=blueviolet)
 
