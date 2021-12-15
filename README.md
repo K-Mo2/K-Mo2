@@ -2,7 +2,7 @@
 
 I'm a full-stack web developer 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=K-Mo2&color=blueviolet)
 
 <img align='right' src="./programmer.gif" width="230">
 
