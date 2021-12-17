@@ -19,7 +19,7 @@ I'm a full-stack web developer.
 
 -I'm Karim Elsisi, a passionate self-taught full-stack web developer and freelancer.
 
--My passion for software lies in fictional ideas and turning them into reality. 
+-My passion for software lies in turning fictional ideas into reality. 
 
 -I am attentive to clean code, design patterns and best practices.
 
